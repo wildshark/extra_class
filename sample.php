@@ -37,7 +37,7 @@
         <div class="menu-logo">
             <div class="navbar-brand">
                 <span class="navbar-logo">
-                    <a href="https://mobirise.co">
+                    <a href="home.php">
                          <img src="assets/images/604a0cadf94914c7ee6c6e552e9b4487-curved-check-mark-circle-icon-by-vexels-122x122.png" alt="Mobirise" title="" style="height: 3.8rem;">
                     </a>
                 </span>
@@ -45,7 +45,8 @@
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-white display-4" href="page5.html" aria-expanded="false">Sample Worksheet</a></li><li class="nav-item"><a class="nav-link link text-white display-4" href="https://mobirise.co" aria-expanded="false">
+            <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-white display-4" href="sample.php" aria-expanded="false">Sample Worksheet</a></li>
+            <li class="nav-item"><a class="nav-link link text-white display-4" href="contact.php" aria-expanded="false">
                         Contact Us
                     </a></li></ul>
             <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-primary display-4" href="signin.php"><span class="mobi-mbri mobi-mbri-arrow-up mbr-iconfont mbr-iconfont-btn"></span>

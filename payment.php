@@ -19,14 +19,10 @@
   <link rel="stylesheet" href="assets/dropdown/css/style.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
-  
-  
-  
+
 </head>
 <body>
   <section class="menu cid-s4H6GBMhIm" once="menu" id="menu1-1q">
-
-    
 
     <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -40,7 +36,7 @@
         <div class="menu-logo">
             <div class="navbar-brand">
                 <span class="navbar-logo">
-                    <a href="https://mobirise.co">
+                    <a href="home.php">
                          <img src="assets/images/604a0cadf94914c7ee6c6e552e9b4487-curved-check-mark-circle-icon-by-vexels-122x122.png" alt="Mobirise" title="" style="height: 3.8rem;">
                     </a>
                 </span>
@@ -48,7 +44,8 @@
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-white display-4" href="page5.html" aria-expanded="false">Sample Worksheet</a></li><li class="nav-item"><a class="nav-link link text-white display-4" href="https://mobirise.co" aria-expanded="false">
+            <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-white display-4" href="sample.php" aria-expanded="false">Sample Worksheet</a></li>
+            <li class="nav-item"><a class="nav-link link text-white display-4" href="contact.php" aria-expanded="false">
                         Contact Us
                     </a></li></ul>
             <div class="navbar-buttons mbr-section-btn">
@@ -69,11 +66,12 @@
         <div class="row justify-content-md-center">
             <div class="col-md-10 align-center">
                 <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1">
-                    FULL WIDTH INTRO
+                    Start Classes
                 </h1>
                 
                 <p class="mbr-text pb-3 mbr-fonts-style display-5">
-                    Full width intro with adjustable height, background image and a color overlay. Click any text to edit or style it.
+                    To get all Classes, you are requested to subscription.<br>
+                    Note: Processing Fee will be included to your payment by our payment provider
                 </p>
                 
             </div>

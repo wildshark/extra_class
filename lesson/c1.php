@@ -9,7 +9,7 @@
   <link rel="shortcut icon" href="assets/images/604a0cadf94914c7ee6c6e552e9b4487-curved-check-mark-circle-icon-by-vexels-122x122.png" type="image/x-icon">
   <meta name="description" content="Web Site Maker Description">
   
-  <title>Class List</title>
+  <title>lesson_class</title>
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
   <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
@@ -20,10 +20,12 @@
   <link rel="stylesheet" href="assets/tether/tether.min.css">
   <link rel="stylesheet" href="assets/theme/css/style.css">
   <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
-
+  
+  
+  
 </head>
 <body>
-  <section class="menu cid-s4H6GBMhIm" once="menu" id="menu1-i">
+  <section class="menu cid-s8XeEY1N10" once="menu" id="menu1-1i">
 
     
 
@@ -56,141 +58,91 @@
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.info/p">website templates free download</a></section><section class="mbr-section info2 cid-s97pH69VIn" id="info2-20">
+<section class="engine"><a href="https://mobirise.info/f">simple site creator</a></section><section class="timeline2 cid-s8XeEZhOle" id="timeline2-1j">
 
     
 
     
 
-    <div class="container">
-        <div class="row main justify-content-center">
-            <div class="media-container-column col-12 col-lg-3 col-md-4">
-                
-            </div>
-            <div class="media-container-column title col-12 col-lg-7 col-md-6">
-                <h2 class="align-right mbr-bold mbr-white pb-3 mbr-fonts-style display-2">
-                   Hi, <?=$_SESSION['name']?></h2>
-                <h3 class="mbr-section-subtitle align-right mbr-light mbr-white mbr-fonts-style display-5">
-                    Welcome to Extra Classes
-                </h3>
-            </div>
-        </div>
-    </div>
-</section>
+    <div class="container align-center">
+        <h2 class="mbr-section-title pb-3 mbr-fonts-style display-2">Lessons</h2>
+        <h3 class="mbr-section-subtitle pb-5 mbr-fonts-style display-5">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit
+        </h3>
 
-<section class="features17 cid-s8WQ3MzpZw" id="features17-v">
-    
-    <div class="container-fluid">
-        <div class="media-container-row">
-            <div class="card p-3 col-12 col-md-6 col-lg-3">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                        <a href="<?=$u['k1']?>"><img src="assets/images/k1-596x304.png" alt="k1" title=""></a>
-                    </div>
-                    <div class="card-box">
-                        
-                        
+        <div class="container timelines-container" mbri-timelines="">
+            <!--1-->
+            <div class="row timeline-element reverse separline">
+                <span class="iconsBackground">
+                    <span class="mbri-pages mbr-iconfont"></span>
+                </span>          
+                <div class="col-xs-12 col-md-6 align-left">
+                    <div class="timeline-text-content">
+                        <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-5">Stage One</h4>
+                        <p class="mbr-timeline-text mbr-fonts-style display-7">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget<a href="assets/files/eduTech.pptx"> massa elit</a>.
+                        </p>
+                     </div>
+                </div>
+            </div>
+            <!--2-->
+            <div class="row timeline-element  separline">
+                <span class="iconsBackground">
+                    <span class="mbri-responsive mbr-iconfont"></span>
+                </span>
+                <div class="col-xs-12 col-md-6 align-left ">
+                    <div class="timeline-text-content">
+                        <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-5">
+                            Stage Two</h4>
+                        <p class="mbr-timeline-text mbr-fonts-style display-7">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.
+                        </p>
                     </div>
                 </div>
             </div>
-
-            <div class="card p-3 col-12 col-md-6 col-lg-3">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                        <a href="<?=$u['k2']?>"><img src="assets/images/k2-596x304.png" alt="Mobirise" title=""></a>
-                    </div>
-                    <div class="card-box">
-                        
-                        
-                    </div>
-                </div>
-            </div>
-
-            <div class="card p-3 col-12 col-md-6 col-lg-3">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                    <a href="<?=$u['c1']?>"><img src="assets/images/1-596x306.png" alt="Mobirise" title=""></a>
-                    </div>
-                    <div class="card-box">
+            <!--3-->
+            <div class="row timeline-element reverse">
+                <span class="iconsBackground">
+                    <span class="mbri-watch mbr-iconfont"></span>
+                </span>
+                <div class="col-xs-12 col-md-6 align-left">
+                    <div class="timeline-text-content">
+                        <h4 class="mbr-timeline-title pb-3 mbr-fonts-style display-5">
+                            Smart Watch
+                        </h4>      
+                        <p class="mbr-timeline-text mbr-fonts-style display-7">
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.
+                        </p>
                     </div>
                 </div>
             </div>
-
-            <div class="card p-3 col-12 col-md-6 col-lg-3">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                    <a href="<?=$u['c2']?>"><img src="assets/images/2-596x306.png" alt="Mobirise" title=""></a>
-                    </div>
-                    <div class="card-box">
-                        
-                        
-                    </div>
-                </div>
-            </div>
+            <!--4-->
             
+            <!--5-->
             
-        </div>
-    </div>
-</section>
-
-<section class="features17 cid-s8WQmA9wX3" id="features17-w">
-
-    <div class="container-fluid">
-        <div class="media-container-row">
-            <div class="card p-3 col-12 col-md-6 col-lg-3">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                    <a href="<?=$u['c3']?>"><img src="assets/images/3-596x306.png" alt="Mobirise" title=""></a>
-                    </div>
-                    <div class="card-box">
-                        
-                        
-                    </div>
-                </div>
-            </div>
-
-            <div class="card p-3 col-12 col-md-6 col-lg-3">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                    <a href="<?=$u['c4']?>"><img src="assets/images/4-596x306.png" alt="Mobirise" title=""></a>
-                    </div>
-                    <div class="card-box">
-                        
-                        
-                    </div>
-                </div>
-            </div>
-
-            <div class="card p-3 col-12 col-md-6 col-lg-3">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                    <a href="<?=$u['c5']?>"><img src="assets/images/5-596x306.png" alt="Mobirise" title=""></a>
-                    </div>
-                    <div class="card-box">
-                        
-                        
-                    </div>
-                </div>
-            </div>
-
-            <div class="card p-3 col-12 col-md-6 col-lg-3">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                    <a href="<?=$u['c6']?>"><img src="assets/images/6-596x306.png" alt="Mobirise" title=""></a>
-                    </div>
-                    <div class="card-box">
-                        
-                        
-                    </div>
-                </div>
-            </div>
+            <!--6-->
             
+            <!--7-->
+            
+            <!--8-->
+            
+            <!--9-->
+            
+            <!--10-->
+            
+            <!--11-->
+            
+            <!--12-->
             
         </div>
     </div>
 </section>
 
 <section once="footers" class="cid-s8XAcsATZz" id="footer6-1m">
+
+    
+
+    
 
     <div class="container">
         <div class="media-container-row align-center mbr-white">
@@ -202,6 +154,7 @@
         </div>
     </div>
 </section>
+
 
   <script src="assets/popper/popper.min.js"></script>
   <script src="assets/web/assets/jquery/jquery.min.js"></script>

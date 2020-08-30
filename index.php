@@ -1,5 +1,6 @@
 <?php
 include('connection.php');
+include("global.php");
 $conn = connection($db);
 session_start();
 
@@ -45,6 +46,42 @@ if(!isset($_REQUEST['submit'])){
                     }
                 }
             break;
+
+            case"k1";
+                require('lesson/k1.php');
+            break;
+
+            case"k2";
+                require('lesson/k2.php');
+            break;
+
+            case"c1";
+                require('lesson/c1.php');
+            break;
+
+            case"c2";
+                require('lesson/c2.php');
+            break;
+
+            case"c3";
+                require('lesson/c3.php');
+            break;
+
+            case"c4";
+                require('lesson/c4.php');
+            break;
+
+            case"c5";
+                require('lesson/c5.php');
+            break;
+
+            case"c6";
+                require('lesson/c6.php');
+            break;
+
+            default;    
+                require("404.php");
+
         }
 
     }
@@ -61,11 +98,11 @@ if(!isset($_REQUEST['submit'])){
         
             $result = $stmt->get_result();
             if($result->num_rows == 0){
-                require("login.php");
+                require("signin.php");
             } else{
                 $r = $result->fetch_assoc();
                 $_SESSION['user_id'] = $r['user_id'];
-                $_SESSION['name'] = $r['fullname']; 
+                $_SESSION['name'] = $r['fname']." ".$r['lname']; 
                 $url['token'] = bin2hex(json_encode($r));
                 header("location: ?page=dashboard&".http_build_query($url));
             }
