@@ -27,8 +27,6 @@
 <body>
   <section class="menu cid-s8XeEY1N10" once="menu" id="menu1-1i">
 
-    
-
     <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <div class="hamburger">
@@ -116,34 +114,12 @@
                     </div>
                 </div>
             </div>
-            <!--4-->
-            
-            <!--5-->
-            
-            <!--6-->
-            
-            <!--7-->
-            
-            <!--8-->
-            
-            <!--9-->
-            
-            <!--10-->
-            
-            <!--11-->
-            
-            <!--12-->
-            
+          
         </div>
     </div>
 </section>
 
 <section once="footers" class="cid-s8XAcsATZz" id="footer6-1m">
-
-    
-
-    
-
     <div class="container">
         <div class="media-container-row align-center mbr-white">
             <div class="col-12">
@@ -154,7 +130,6 @@
         </div>
     </div>
 </section>
-
 
   <script src="assets/popper/popper.min.js"></script>
   <script src="assets/web/assets/jquery/jquery.min.js"></script>

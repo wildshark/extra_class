@@ -81,9 +81,7 @@ if(!isset($_REQUEST['submit'])){
 
             default;    
                 require("404.php");
-
         }
-
     }
 }else{
     switch($_REQUEST['submit']){
